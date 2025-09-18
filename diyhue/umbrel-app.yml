@@ -35,7 +35,7 @@ developer: diyHue
 website: https://diyhue.org
 repo: https://github.com/diyhue/diyHue
 support: https://diyhue.discourse.group
-port: 80
+port: 9081
 path: ""
 defaultUsername: "admin@diyhue.org"
 defaultPassword: "changeme"

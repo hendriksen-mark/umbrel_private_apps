@@ -1,0 +1,53 @@
+manifestVersion: 1.1
+id: hendriksen-mark-diyhue
+category: automation
+name: diyHue
+version: "2025-05-28"
+tagline: Open source Philips Hue Bridge emulator
+description: >-
+  diyHue provides a complete ecosystem for smart home automation, eliminating the 
+  need for vendor-specific bridges and hardware. This open-source Philips Hue Bridge 
+  emulator allows you to control lights, create scenes, set up routines, and integrate 
+  with popular smart home platforms.
+
+
+  Key features include:
+
+  - Complete Hue Bridge emulation with all functions (lights, groups, scenes, routines)
+
+  - Support for Amazon Alexa, Google Home, and Home Assistant
+
+  - Compatible with official Hue apps and third-party apps like Hue Essentials
+
+  - Works with WS2812B/SK6812 LED strips, Philips Hue, IKEA Trådfri, Yeelight, and more
+
+  - Entertainment mode support for Ambilight and Hue Sync
+
+  - No cloud connection required - everything runs locally
+
+  - Web interface for easy configuration and management
+
+
+  diyHue is perfect for users who want full local control of their smart lighting 
+  without relying on proprietary bridges or cloud services. It's lightweight, 
+  resource-friendly, and designed to run 24/7 on small devices.
+developer: diyHue
+website: https://diyhue.org
+repo: https://github.com/diyhue/diyHue
+support: https://diyhue.discourse.group
+port: 9081
+path: ""
+defaultUsername: "admin@diyhue.org"
+defaultPassword: "changeme"
+releaseNotes: >-
+  diyHue provides a complete smart home lighting solution with Philips Hue Bridge emulation.
+
+
+  Features include complete light control, scene management, entertainment mode support, 
+  and compatibility with popular smart home platforms and apps.
+
+
+  No cloud connection required - everything runs locally for maximum privacy and control.
+submitter: Mark Hendriksen
+submission: https://github.com/getumbrel/umbrel-apps/pull/
+
